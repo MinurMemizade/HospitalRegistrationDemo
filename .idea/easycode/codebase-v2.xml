@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/src/Admin/Admin.java;C:/Users/Minur Memizade/IdeaProjects/Hospital/src/Admin/Config.java;C:/Users/Minur Memizade/IdeaProjects/Hospital/src/Admin/Doctors.java;C:/Users/Minur Memizade/IdeaProjects/Hospital/src/Admin/InputUtilities.java;C:/Users/Minur Memizade/IdeaProjects/Hospital/src/Admin/Utilities.java;C:/Users/Minur Memizade/IdeaProjects/Hospital/src/Menu/MainMenu.java;C:/Users/Minur Memizade/IdeaProjects/Hospital/src/Menu/Menu.java;C:/Users/Minur Memizade/IdeaProjects/Hospital/src/User/Appointment.java;C:/Users/Minur Memizade/IdeaProjects/Hospital/src/Main.java" />
+    <option name="forceFullIndex" value="false" />
+    <option name="fileSummaryMaps" value="{&quot;C:/Users/Minur Memizade/IdeaProjects/Hospital&quot;:&quot;{\&quot;/src/Admin/InputUtilities.java\&quot;:\&quot;\\npublic class InputUtilities {\\r\&quot;,\&quot;/src/Admin/Doctors.java\&quot;:\&quot;\\npublic class Doctors implements Serializable {\\r\&quot;,\&quot;/src/Menu/Menu.java\&quot;:\&quot;\\npublic class Menu {\\r\&quot;,\&quot;/src/User/Appointment.java\&quot;:\&quot;\\npublic class Appointment {\\r\&quot;,\&quot;/src/Admin/Admin.java\&quot;:\&quot;\\npublic class Admin {\\r\&quot;,\&quot;/src/Menu/MainMenu.java\&quot;:\&quot;\\npublic class MainMenu {\\r\&quot;,\&quot;/src/Main.java\&quot;:\&quot;\\npublic class Main {\&quot;,\&quot;/src/Admin/Config.java\&quot;:\&quot;\\npublic class Config {\\r\&quot;,\&quot;/src/Admin/Utilities.java\&quot;:\&quot;\\npublic class Utilities {\\r\&quot;}&quot;}" />
+  </component>
+</project>
